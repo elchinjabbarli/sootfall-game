@@ -8,7 +8,7 @@ SOOTFALL, 2D kıyamet sonrası bir hayatta kalma oyunudur (iOS App Store hedefli
 TypeScript + Phaser 3 + Capacitor ile geliştirilir; tüm görsel ve ses içerik
 koddan prosedürel olarak üretilir — tamamen özgün sanat, sıfır dış varlık.
 
-- Sürüm / Version: v0.1.3 (faz 5/100)
+- Sürüm / Version: v0.2.0 (faz 8/100)
 - Durum / Status: aktif geliştirme / active development
 
 © 2026 Elchin Jabbarli · Tüm hakları saklıdır / All rights reserved.
